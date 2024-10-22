@@ -65,5 +65,4 @@ This website is ready to be deployed on platforms like Vercel, Netlify, or any o
 [![Star History Chart](https://api.star-history.com/svg?repos=itsEricWu/ericwu.me&type=Date)](https://star-history.com/#itsEricWu/ericwu.me&Date)
 
 ## Contributing
-
-Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
+For major changes, please open an issue first to discuss what you would like to change.
